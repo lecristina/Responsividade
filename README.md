@@ -1,2 +1,2 @@
 # responsividade
-https://lecristina.github.io/responsividade.io/
+https://lecristina.github.io/responsividade/
